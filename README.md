@@ -32,10 +32,11 @@
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:0d1117&height=3&section=header" />
 
-<!-- ABOUT ME -->
-## 🧑‍💻 &nbsp;About Me
+## 🧑‍💻 About Me
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=560&lines=console.log(%22Hello%2C+World!%22)%3B;while(!success)+%7B+tryAgain()%3B+%7D;git+commit+-m+%22fixed+the+bug+I+wrote+yesterday%22;npm+run+build-something-awesome" alt="Typing SVG" />
 
 ```javascript
 const vinayak = {
@@ -54,12 +55,11 @@ const vinayak = {
 };
 ```
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:0d1117&height=3&section=header" />
 
-<!-- TECH STACK -->
-## 🛠️ &nbsp;Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 
-### 🎨 Frontend
+**Frontend**
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
@@ -70,7 +70,7 @@ const vinayak = {
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### ⚙️ Backend
+**Backend**
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
@@ -80,7 +80,7 @@ const vinayak = {
   <img src="https://img.shields.io/badge/REST_API-FF6B6B?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
-### 🗄️ Database & Cloud
+**Database & Cloud**
 <p>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -90,7 +90,7 @@ const vinayak = {
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
-### 🔧 Tools & Workflow
+**Tools & Workflow**
 <p>
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
@@ -100,38 +100,59 @@ const vinayak = {
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:0d1117&height=3&section=header" />
 
-<!-- GITHUB STATS -->
-## 📊 &nbsp;GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vinayak2356&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ffe1&icon_color=a78bfa&text_color=c8d6ef&count_private=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vinayak2356&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ffe1&fire=fbbf24&currStreakLabel=00ffe1&sideLabels=c8d6ef&dates=c8d6ef&sideNums=a78bfa&currStreakNum=ffffff" />
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinayak2356&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ffe1&text_color=c8d6ef&langs_count=8" />
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinayak2356&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ffe1&text_color=c8d6ef&langs_count=8" />
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:0d1117&height=3&section=header" />
 
-<!-- CONTRIBUTION GRAPH -->
-## 🌱 &nbsp;Contribution Activity
+## 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Vinayak2356&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:0d1117&height=3&section=header" />
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/Vinayak2356/Vinayak2356/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+> ⚙️ This eats through your contribution graph like a game of Snake — it needs a one-time setup (a small GitHub Action) to generate the SVG above. Steps: create `.github/workflows/snake.yml` in this profile repo using the [Platane/snk](https://github.com/Platane/snk) action, let it run once, then the animation stays live and updates daily on its own.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:0d1117&height=3&section=header" />
+
+## 🌱 Contribution Activity
 
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vinayak2356&bg_color=0d1117&color=00ffe1&line=a78bfa&point=fbbf24&area=true&area_color=00ffe120&hide_border=true" />
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:0d1117&height=3&section=header" />
 
-<!-- FEATURED PROJECTS -->
-## 🚀 &nbsp;Featured Projects
+## 🚀 Featured Projects
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=800&color=FBBF24&center=true&vCenter=true&width=500&lines=Pinned+%26+polished+%E2%80%94+swap+in+your+own+repos+below." alt="Typing SVG" />
+
 
 <div align="center">
 
-<a href="https://github.com/Vinayak2356">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vinayak2356&repo=Vinayak2356&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ffe1&text_color=c8d6ef&icon_color=a78bfa" />
+<a href="https://github.com/Vinayak2356/REPLACE_WITH_REPO_1">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vinayak2356&repo=REPLACE_WITH_REPO_1&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ffe1&text_color=c8d6ef&icon_color=a78bfa" />
+</a>
+<a href="https://github.com/Vinayak2356/REPLACE_WITH_REPO_2">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vinayak2356&repo=REPLACE_WITH_REPO_2&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ffe1&text_color=c8d6ef&icon_color=a78bfa" />
 </a>
 
 </div>
@@ -140,10 +161,9 @@ const vinayak = {
 
 > 💡 **More projects coming soon!** I'm actively building — stay tuned and ⭐ star the repos you like!
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:0d1117&height=3&section=header" />
 
-<!-- SKILLS PROGRESS -->
-## 📈 &nbsp;Skill Proficiency
+## 📈 Skill Proficiency
 
 ```text
 JavaScript / TypeScript  ████████████████████░░░  92%
@@ -155,10 +175,9 @@ Databases                ███████████████░░░�
 UI/UX Design             ██████████████░░░░░░░░░░  68%
 ```
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:0d1117&height=3&section=header" />
 
-<!-- EXPERIENCE TIMELINE -->
-## 🗓️ &nbsp;Journey
+## 🗓️ Journey
 
 ```
 2024 ── Present  ●  Senior Full-Stack Developer   │ Tech Startup · Remote
@@ -177,21 +196,21 @@ UI/UX Design             ██████████████░░░░�
                     Graduated with distinction     │
 ```
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:0d1117&height=3&section=header" />
 
-<!-- WHAT I'M DOING -->
-## 🔥 &nbsp;Currently
+## 🔥 Currently
 
-- 🔭 &nbsp;Working on **scalable full-stack web applications**
-- 🌱 &nbsp;Deepening expertise in **system design & cloud architecture**
-- 👯 &nbsp;Looking to collaborate on **open source projects**
-- 💬 &nbsp;Ask me about **React, Node.js, REST APIs, or anything web**
-- ⚡ &nbsp;Fun fact: **My code works on the first try... sometimes 😄**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2600&pause=900&color=00FFE1&center=true&vCenter=true&width=500&lines=status%3A+shipping...;status%3A+debugging+at+2am...;status%3A+drinking+coffee...;status%3A+open+to+opportunities." alt="Typing SVG" />
 
----
+- 🔭 Working on **scalable full-stack web applications**
+- 🌱 Deepening expertise in **system design & cloud architecture**
+- 👯 Looking to collaborate on **open source projects**
+- 💬 Ask me about **React, Node.js, REST APIs, or anything web**
+- ⚡ Fun fact: **My code works on the first try... sometimes 😄**
 
-<!-- CONNECT -->
-## 🤝 &nbsp;Let's Connect
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:0d1117&height=3&section=header" />
+
+## 🤝 Let's Connect
 
 <div align="center">
 
@@ -219,8 +238,9 @@ UI/UX Design             ██████████████░░░░�
 
 ---
 
-<!-- FOOTER -->
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&duration=3200&pause=1000&color=A78BFA&center=true&vCenter=true&width=560&lines=Thanks+for+stopping+by!;Let%27s+build+something+great+together." alt="Typing SVG" />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:a78bfa,100:00ffe1&height=120&section=footer&animation=fadeIn" />
 
